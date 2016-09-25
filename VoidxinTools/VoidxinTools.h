@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-@interface PSBTools : NSObject
+@interface VoidxinTools : NSObject
 
 //返回当前版本号
 + (CGFloat)systemVersion;

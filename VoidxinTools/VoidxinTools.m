@@ -6,11 +6,11 @@
 //  Copyright (c) 2015年 voidxin. All rights reserved.
 //
 
-#import "PSBTools.h"
+#import "VoidxinTools.h"
 #include <sys/types.h>
 #import <sys/sysctl.h>
 
-@implementation PSBTools
+@implementation VoidxinTools
 
 //返回当前版本号
 + (CGFloat)systemVersion
